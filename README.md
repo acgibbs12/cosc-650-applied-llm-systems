@@ -1,5 +1,4 @@
 # cosc-650-applied-llm-systems
-## Alice Yerby
 ### Description
 This repository will be for COSC 650 at Maryville University. This class is designed to cover the core foundations of LLMs, prompt engineering, RAG, fine tuning, and evaluation. There are 8 assignments throughout the course:
 1. Tokenization
